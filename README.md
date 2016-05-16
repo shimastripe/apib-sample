@@ -1,6 +1,9 @@
 # apib-sample
 0512 API Blueprint速習会
 
+## slide
+https://speakerdeck.com/shimastripe/api-blueprintsu-xi-hui
+
 ## branch
 - master (Rails API)
 - 01_overview
@@ -11,3 +14,4 @@
 - 06_updateuser
 - 07_deleteuser
 - 08_dredd
+- 09_apiblueprint-rails
